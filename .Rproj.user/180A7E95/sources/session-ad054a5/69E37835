@@ -1,9 +1,9 @@
 {
     "id": "69E37835",
-    "path": "~/Introdução em R/IPR_1.R",
+    "path": "~/GitHub/introdu-o-em-R/IPR_1.R",
     "project_path": "IPR_1.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1377713671",
     "contents": "",
     "dirty": false,
     "created": 1713902151049.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713902151,
+    "lastKnownWriteTime": 1713903500,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713902151,
+    "last_content_update": 1713903500163,
     "read_only": false,
     "read_only_alternatives": []
 }
